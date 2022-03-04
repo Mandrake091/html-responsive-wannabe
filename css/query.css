@@ -7,13 +7,13 @@
         margin:0;
     }
     
-      .row{
+    .row{
         margin: 0;
         font-size: 16px;
         width:100%;
     }
       img{
-        height: 22vh;
+        height: 18vh;
     }
        #lezioni .row > .right {
         margin-left: 5%;
